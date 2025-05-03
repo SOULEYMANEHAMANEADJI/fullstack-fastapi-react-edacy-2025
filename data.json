@@ -1,0 +1,45 @@
+{
+    "total": 4,
+    "items": [
+      {
+        "name": "Samsung Galaxy Buds 2 Pro",
+        "price": 179.99,
+        "quantity": 20,
+        "description": "Écouteurs sans fil haut de gamme avec audio 24 bits Hi-Fi et ANC puissant.",
+        "status": "published",
+        "id": 1,
+        "owner_id": 1,
+        "created_at": "2025-05-02T00:26:24.657493"
+      },
+      {
+        "name": "Samsung Galaxy Tab S9+",
+        "price": 899,
+        "quantity": 10,
+        "description": "Une tablette haut de gamme pour la productivité et le divertissement avec un écran AMOLED immersif.",
+        "status": "published",
+        "id": 2,
+        "owner_id": 1,
+        "created_at": "2025-05-02T00:26:43.637239"
+      },
+      {
+        "name": "Samsung Galaxy Tab S9+",
+        "price": 899,
+        "quantity": 10,
+        "description": "Une tablette haut de gamme pour la productivité et le divertissement avec un écran AMOLED immersif.",
+        "status": "published",
+        "id": 3,
+        "owner_id": 1,
+        "created_at": "2025-05-02T00:26:51.430709"
+      },
+      {
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 1299.99,
+        "quantity": 5,
+        "description": "Le dernier smartphone phare de Samsung avec des performances exceptionnelles et un appareil photo incroyable.",
+        "status": "published",
+        "id": 4,
+        "owner_id": 1,
+        "created_at": "2025-05-02T00:27:11.070036"
+      }
+    ]
+  }
